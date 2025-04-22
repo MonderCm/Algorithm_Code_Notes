@@ -1,1 +1,1 @@
-![](../image/gcd、逆元（lcm）/file-20250422225347621.png)
+![](../image/gcd、逆元（lcm）/file-20250422225654725.png)
