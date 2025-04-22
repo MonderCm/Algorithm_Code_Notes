@@ -1,1 +1,1 @@
-![[Pasted image 20250422195803.png]]
+![[$$filename$$ $$counter$$.$$ext$$.png]]
